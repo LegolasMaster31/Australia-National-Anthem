@@ -1,6 +1,6 @@
 {
 	"blog": {
-		"blogger_id": "000",
+		"blogger_id": "6192721104566665853",
 		"api_key": "AIzaSyDfW5y44SYOMh0DUIu9d46u5ER1RqPtiA0,AIzaSyDLD1DZ0U8jKO9iq71r1H5gjnT99xRvCJc,AIzaSyAEUZ_0xjWqQ7EDgpqL5-RxY5kjUCGfaUo,AIzaSyATiR--WSQSat3ete0B6YEkneP_3Pk_DfM,AIzaSyC-goD1iMskBc8YnMJ_f6fxkSiH_hyVtBE,AIzaSyAVnXB4qPL-knsGLq_1aBRrDvZLG9KW8uw,AIzaSyCIB5G98-l5SAyRjKkW9-uNRSN6VIszWbw,AIzaSyBKnjxtNQf1kAlbJLpFcoFZiguTXdYxiXw,AIzaSyD0cu2-_N6T_GHXfRTptPVn51VCnfHE6DQ,AIzaSyDgSceetKrj4de76phYjkXESR0mfrO9pSc,AIzaSyDOjIaM5trIjmT9u9vNooWiYpF8Rf5mSpI"
 	},
 	"app": {
@@ -23,7 +23,7 @@
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8894440334538768",
-		"admob_app_id": "XXX",
+		"admob_app_id": "ca-app-pub-8894440334538768~8198231203",
 		"admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
 		"admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
 		"admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
@@ -48,13 +48,13 @@
 		"ironsource_banner_placement_name": "DefaultBanner",
 		"ironsource_interstitial_placement_name": "DefaultInterstitial",
 		"interstitial_ad_interval": 2,
-		"native_ad_interval": 2,
-		"native_ad_index": 1
+		"native_ad_interval": 1,
+		"native_ad_index": 0
 	},
 	"labels": [
 		{
 			"term": "Misc",
-			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBsYxlli6_EeSDXQxV6-GL8n45ywiLUYiT-WxmmlcEO02V7SN4BZS0-4pALSoKwvOdNiXTJcZO75bfpym4X57D339AvjTIq_GlBuE_Jkr4xCeMtUI0hl8FsphEzUufHHUWxUUZ41ve9I4Y_SIHI2xqWPZ6a282NGwFT7m8-LYrobPhOpql6rAF1Li4AKw/s320/tape-6824489_640%20(1).jpg"
+			"image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeOEhqAD6Mq3hKXEfCv_qQtAaoXmtlnf0IPUu9Vwnnoioc1KOBpeNyGZCNGZcg24K8rcNTnOt8npT-ZTdeEDTEogVgAfQABgJY58qDhh9VPJcCt8q5wjpeYPKrgvTDBT9FkT1O_h6I0VQphAo1CtgAc3U3w3BQEEFGM0dYwaa9l4khTmNIZ3YCBQw_KZg/s320/america-1313553_640.jpg"
 		}
 	]
 }
